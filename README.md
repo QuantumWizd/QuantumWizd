@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghul2304" alt="raghul2304" /></a> </p>
 
-- 🔭 I’m currently working on ARi **Finches**
+- 🔭 I’m currently working on Flipopay
 
 - 🌱 I’m currently learning **golang**
 
