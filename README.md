@@ -107,11 +107,8 @@ Database Design & Indexing     ██████████████░░�
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=QuantumWizd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumWizd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B35&currStreakLabel=00ADD8" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWizd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=QuantumWizd&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5" />
+<img width="48%" src="https://streak-stats.demolab.com?user=QuantumWizd&theme=dark&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B35&currStreakLabel=00ADD8&sideLabels=00ADD8&dates=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWizd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
