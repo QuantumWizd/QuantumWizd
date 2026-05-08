@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:0d1117&height=130&section=header&text=Raghul%20Raja&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Fullstack+Developer+🚀;Building+Scalable+Systems+🏗️;AWS+%7C+Queuing+%7C+Caching+%7C+Microservices;Building+Flipopay+💳;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Fullstack+Developer+🚀;Building+Scalable+Systems+🏗️;AWS+%7C+Queuing+%7C+Caching+%7C+Microservices;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-- 🔭 Currently building **Flipopay** — a FinTech payment platform
+- 🔭 Currently building — a FinTech payment platform
 - 🏗️ I design and build **scalable fullstack systems** end to end
 - ☁️ Working with **AWS, message queues, caching layers** and distributed architecture
 - 📐 Passionate about **System Design** — from APIs to infrastructure
