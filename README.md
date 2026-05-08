@@ -128,16 +128,6 @@ Database Design & Indexing     ██████████████░░�
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Raghul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantumWizd&bg_color=0d1117&color=00ADD8&line=00ADD8&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
