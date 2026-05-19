@@ -91,14 +91,14 @@
 ## 📐 System Design Skills
 
 ```
-Event-Driven Architecture      ████████████████░░  90%
-Caching Strategies (Redis)     ███████████████░░░  85%
-Message Queuing (SQS/Kafka)    ███████████████░░░  85%
-Microservices Design           ██████████████░░░░  80%
-AWS Cloud Architecture         ██████████████░░░░  80%
-Backend Engineering            ████████████████░░  90%
-Frontend (Svelte/SvelteKit)    █████████████░░░░░  75%
-Database Design & Indexing     ██████████████░░░░  80%
+Service-Oriented Architecture     
+Caching Strategies (Redis)     
+Message Queuing (SQS/Kafka)    
+Microservices Design           
+AWS Cloud Architecture         
+Backend Engineering            
+Frontend (Svelte/SvelteKit)    
+Database Design & Indexing     
 ```
 
 ---
