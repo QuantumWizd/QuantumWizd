@@ -145,7 +145,4 @@ Database Design & Indexing
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"Good systems are built once and scaled forever."*
-<br/>
-⭐ from [QuantumWizd](https://github.com/QuantumWizd)
 
-</div>
