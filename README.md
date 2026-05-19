@@ -108,7 +108,6 @@ Database Design & Indexing
 <div align="center">
 
 <img width="48%" src="https://streak-stats.demolab.com?user=QuantumWizd&theme=dark&hide_border=true&background=0d1117&stroke=00ADD8&ring=00ADD8&fire=FF6B35&currStreakLabel=00ADD8&sideLabels=00ADD8&dates=c9d1d9" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumWizd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
